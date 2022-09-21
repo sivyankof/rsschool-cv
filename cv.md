@@ -1,5 +1,5 @@
-[link to rss](https://app.rs.school/profile)
-___
+[link to rss](https://app.rs.school/profile)  
+
 # Artem Sivyankov
 ___
 
